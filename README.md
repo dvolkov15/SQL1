@@ -5,20 +5,20 @@
 
 Уникальные названия районов из таблицы с адресами, которые начинаются на “K” и заканчиваются на “a” и не содержат пробелов.
 
-![SQL1_1](https://github.com/dvolkov15/DDL-DML/blob/main/SQL1_1.png)
+![SQL1_1](https://github.com/dvolkov15/SQL1/blob/main/SQL1_1.png)
 
 
 Задание 2
 
 Прокат фильмов в промежуток с  15 июня 2005 года по 18 июня 2005 года включительно и стоимость которых превышает 10.00
 
-![SQL1_2](https://github.com/dvolkov15/DDL-DML/blob/main/SQL1_2.jpeg)
+![SQL1_2](https://github.com/dvolkov15/SQL1/blob/main/SQL1_2.jpeg)
 
 Задание 3
 
 Получите последние пять аренд фильмов.
 
-![SQL1_3](https://github.com/dvolkov15/DDL-DML/blob/main/SQL1_3.jpeg)
+![SQL1_3](https://github.com/dvolkov15/SQL1/blob/main/SQL1_3.jpeg)
 
 
 Задание 4
@@ -31,4 +31,4 @@
 замените буквы 'll' в именах на 'pp'.
 
 
-![SQL1_4](https://github.com/dvolkov15/DDL-DML/blob/main/SQL1_4.jpeg)
+![SQL1_4](https://github.com/dvolkov15/SQL1/blob/main/SQL1_4.jpeg)
